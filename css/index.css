@@ -1,0 +1,445 @@
+.izquierda {
+width: 64%;
+margin:auto;
+overflow:inherit;
+float:left;
+}
+
+.derecha {
+width: 36%;
+margin:auto;
+overflow:inherit;
+float:left;
+}
+
+body
+{
+    margin: 0px;
+	font-family: 'Lato', sans-serif;
+}
+
+img
+{
+    border: 0;
+}
+
+#divHtml
+{	
+	width: 100%;
+	max-width: 1024px;
+	margin: auto;
+	line-height: 24px;
+	overflow-x: hidden;
+	background-color: #FFF;	
+}
+
+#divHtml img
+{
+    width: 90%;
+}
+
+#divHtml .encabezado
+{
+    overflow: hidden;
+}
+
+#divHtml .encabezado img
+{
+    width: 100%; 
+    float: left;
+}
+
+#divHtml .contenido
+{
+	width: 100%;
+	margin: 0px auto;
+    overflow: hidden;
+	padding: 0px;
+}
+
+#divHtml p
+{
+	padding: 10px 0px;
+	width: 90%;
+	margin: auto;
+	text-align: left;
+	font-size: 20px;
+	font-family: 'Lato', sans-serif;
+	line-height: 34px;
+	color:#000;
+}
+
+#divHtml .pie-boton
+{
+	width: 90%;
+	margin: auto;
+	text-align: center;
+	font-size: 19px;
+	font-family: 'Lato', sans-serif;
+	line-height: 28px;
+	color:#4E4E4E; 
+	padding:15px 15px 0px 15px;
+}
+
+#divHtml .texto-rojo
+{
+    padding: 25px 0px 15px 0px;
+    width: 90%;
+    margin: auto;
+    text-align: left;
+    font-size: 26px;
+    font-family: 'Lato', sans-serif;
+    line-height: 38px;
+    color: #CC0000;
+}
+
+#divHtml .texto-azul
+{
+	padding: 10px 0px;
+	width: 88%;
+	margin: auto;
+	text-align: left;
+	font-size: 25px;
+	font-family: 'Lato', sans-serif;
+	line-height: 34px;
+	color:#003473;
+}
+
+#divHtml .titulo
+{
+    font-size: 28px;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+    color: #C60000;
+    width: 90%;
+    text-align: center;
+    margin: auto;
+    line-height: 35px;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+}
+
+#divHtml .titulo-azul
+{
+    width: 90%;
+    text-align: left;
+    margin: auto;
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 38px;
+    font-family: 'Lato', sans-serif;
+    color: #0076d8;
+	padding-top:30px;
+	padding-bottom:15px;
+}
+
+#divHtml .titulo-violeta
+{
+    width: 90%;
+    text-align: left;
+    margin: auto;
+    color: #7a3a90;
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 38px;
+    font-family: 'Lato', sans-serif;
+	padding-top:30px;
+	padding-bottom:15px;
+}
+
+#divHtml .titulo-rojo
+{
+    width: 90%;
+    text-align: left;
+    margin: auto;
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 38px;
+    font-family: 'Lato', sans-serif;
+    color:#e41316;
+	padding-top:30px;
+	padding-bottom:15px;
+}
+
+#divHtml .titulo-bonus {
+    text-align: left;
+    font-size: 28px;
+    line-height: 38px;
+    color: #4169e10;
+    font-family: 'Lato', sans-serif;
+    margin: auto;
+    margin-top: 30px;
+    width: 100%;
+    padding: 0px;
+}
+
+#divHtml .titulo-bonus2 {
+    text-align: center;
+    font-size: 30px;
+    line-height: 38px;
+    color: #fff;
+	background-color: #8A2EA8;
+    font-family: 'Lato', sans-serif;
+    margin: auto;
+    margin-top: 30px;
+	margin-bottom: 30px;
+    width: 95%;
+    padding: 10px;
+}
+
+#divHtml .titulo-bonus3 {
+    text-align: center;
+    font-size: 34px;
+    line-height: 40px;
+    color: #8A2EA8;
+    font-family: 'Lato', sans-serif;
+    margin: auto;
+    margin-top: 30px;
+	margin-bottom: 30px;
+    width: 95%;
+    padding: 30px 0px 10px 0px;
+}
+
+#divHtml .titulo-preguntas
+{
+    width: 95%;
+    text-align: center;
+    margin: auto;
+    color: #0080B5;
+    font-size: 30px;
+ font-weight: bold;
+    line-height: 38px;
+    font-family: 'Lato', sans-serif;
+    color: #000000;
+	padding:35px 0px 35px 0px;
+}
+
+#divHtml .titulo img
+{
+    width: 90%;
+}
+
+#divHtml .img-80
+{
+    width: 80%;
+}
+
+#divHtml .img-90
+{
+    width: 90%;
+}
+
+#divHtml .img-float-right
+{
+    float: right;
+}
+
+#divHtml .img-float-left
+{
+    float: left;
+}
+
+#divHtml .listado-1
+{
+	margin: auto;
+    padding: 20px;
+    font-size: 20px;
+	font-family: 'Lato', sans-serif;
+	line-height: 32px;
+}
+
+#divHtml .listado-1 li
+{
+	padding-left: 45px;
+	padding-top: 0px;
+	margin-bottom: 20px;
+	margin-left:15px;
+	min-height: 35px;
+	text-align: left;
+	list-style: none;
+	background-image: url("../images/til01.jpg");
+	background-size: 30px 30px;
+	background-repeat: no-repeat;
+}
+
+#divHtml .listado-1v
+{
+	margin: auto;
+    padding: 20px;
+    font-size: 20px;
+	font-family: 'Lato', sans-serif;
+	line-height: 32px;
+}
+
+#divHtml .listado-1v li
+{
+	padding-left: 45px;
+	padding-top: 0px;
+	margin-bottom: 20px;
+	margin-left:15px;
+	min-height: 35px;
+	text-align: left;
+	list-style: none;
+	background-image: url("../images/til-v.png");
+	background-size: 30px 30px;
+	background-repeat: no-repeat;
+}
+
+#divHtml .listado-2
+{
+	margin: auto;
+    padding: 20px;
+    font-size: 20px;
+	font-family: 'Lato', sans-serif;
+	line-height: 32px;
+}
+
+#divHtml .listado-2 li
+{
+	padding-left: 45px;
+	padding-top: 0px;
+	margin-bottom: 20px;
+	margin-left:15px;
+	min-height: 35px;
+	text-align: left;
+	list-style: none;
+	background-image: url("../images/til-rojo.png");
+	background-size: 30px 30px;
+	background-repeat: no-repeat;
+}
+
+#divHtml .gris
+{
+	background-color:#F3F3F3;	
+}
+
+#divHtml .listado-3
+{
+	margin: auto;
+    padding: 20px;
+    font-size: 20px;
+	font-family: 'Lato', sans-serif;
+	line-height: 31px;
+}
+
+#divHtml .listado-3 li
+{
+	padding-left: 45px;
+	padding-top: 0px;
+	margin-bottom: 18px;
+	min-height: 35px;
+	text-align: left;
+	list-style: none;
+	background-image: url("../../images/til01.jpg");
+	background-size: 30px 30px;
+	background-repeat: no-repeat;
+}
+
+#divHtml .listado-4
+{
+	margin: auto;
+    padding: 20px;
+    font-size: 20px;
+	font-family: 'Lato', sans-serif;
+	line-height: 31px;
+}
+
+#divHtml .listado-4 li
+{
+	padding-left: 45px;
+	padding-top: 0px;
+	margin-bottom: 18px;
+	min-height: 35px;
+	text-align: left;
+	list-style: none;
+	background-image: url("../images/tilde+.png");
+	background-size: 30px 30px;
+	background-repeat: no-repeat;
+}
+
+.div-left
+{
+    float: left;
+}
+
+#divHtml .titulo-negro {
+	width: 90%;
+	text-align: center;
+	margin: auto;
+	font-size: 24px;
+	font-weight: bold;
+	line-height: 34px;
+	color: #000;
+	font-family: 'Lato', sans-serif;
+	padding-top: 20px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+}
+
+#divHtml .cuadro-testim {
+	text-align: left;
+	font-size: 19px;
+	line-height: 31px;
+	color: #000;
+	font-family: 'Lato', sans-serif;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+	padding:27px;
+	box-sizing: border-box;
+	margin: auto;
+	margin-top: 25px;
+	margin-bottom:20px;
+	z-index: -1;
+	background-color:#f5f5f5;
+	width: 96%;
+}
+
+.Estilo77 {font-size: 13px;
+	color: #333333;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+
+.cuadro-celeste {
+	text-align: left;
+	font-size: 19px;
+	line-height: 35px;
+	color: #000;
+font-family: 'Adamina', serif;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+	
+	padding:20px;
+	box-sizing: border-box;
+	margin: auto;
+	z-index: -1;
+	background-color:#cff9fc;
+	width: 100%;
+}
+
+#divHtml .texto-cbk {
+	width: 90%;
+	text-align: center;
+	margin: auto;
+	/*color: #BA0000;*/
+    font-size: 11px;
+	color: #666666;
+	font-family: Verdana, Geneva, sans-serif;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+	line-height: 14px;
+}
